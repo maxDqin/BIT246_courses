@@ -1,0 +1,380 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="743390d3-f346-49ed-896c-a8f59441d484" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Ruby Class" />
+        <option value="Ruby File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1fOmbGoQe5qCOsyJYNKDnG0kF4T" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Assessment/Phase2" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.standard" value="" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.ruby.settings.RubyActiveModuleSdkConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Assessment" />
+      <recent name="$PROJECT_DIR$/UM" />
+      <recent name="$PROJECT_DIR$/Assessment/Phase1" />
+      <recent name="$PROJECT_DIR$/week7/workshop" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Assessment/Phase2" />
+      <recent name="$PROJECT_DIR$/Assessment" />
+      <recent name="$PROJECT_DIR$/week7/workshop" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/week6/workshop" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Ruby.review">
+    <configuration name="question1" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
+      <module name="BIT246" />
+      <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="" />
+      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$/Assessment/A1b" />
+      <RUBY_RUN_CONFIG NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RUBY_RUN_CONFIG NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RUBY_RUN_CONFIG NAME="myPassParentEnvs" VALUE="true" />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" track_test_folders="true" runner="rcov">
+        <COVERAGE_PATTERN ENABLED="true">
+          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
+        </COVERAGE_PATTERN>
+      </EXTENSION>
+      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/Assessment/A1b/question1.rb" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="review" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
+      <module name="BIT246" />
+      <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="" />
+      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$" />
+      <RUBY_RUN_CONFIG NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RUBY_RUN_CONFIG NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RUBY_RUN_CONFIG NAME="myPassParentEnvs" VALUE="true" />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" track_test_folders="true" runner="rcov">
+        <COVERAGE_PATTERN ENABLED="true">
+          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
+        </COVERAGE_PATTERN>
+      </EXTENSION>
+      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/review.rb" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test (1)" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
+      <module name="BIT246" />
+      <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="" />
+      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$/Assessment/Phase3" />
+      <RUBY_RUN_CONFIG NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RUBY_RUN_CONFIG NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RUBY_RUN_CONFIG NAME="myPassParentEnvs" VALUE="true" />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" track_test_folders="true" runner="rcov">
+        <COVERAGE_PATTERN ENABLED="true">
+          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
+        </COVERAGE_PATTERN>
+      </EXTENSION>
+      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/Assessment/Phase3/test.rb" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
+      <module name="BIT246" />
+      <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="" />
+      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$" />
+      <RUBY_RUN_CONFIG NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RUBY_RUN_CONFIG NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RUBY_RUN_CONFIG NAME="myPassParentEnvs" VALUE="true" />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" track_test_folders="true" runner="rcov">
+        <COVERAGE_PATTERN ENABLED="true">
+          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
+        </COVERAGE_PATTERN>
+      </EXTENSION>
+      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/test.rb" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="yield_keyword" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
+      <module name="BIT246" />
+      <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="" />
+      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$/others" />
+      <RUBY_RUN_CONFIG NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RUBY_RUN_CONFIG NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RUBY_RUN_CONFIG NAME="myPassParentEnvs" VALUE="true" />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" track_test_folders="true" runner="rcov">
+        <COVERAGE_PATTERN ENABLED="true">
+          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
+        </COVERAGE_PATTERN>
+      </EXTENSION>
+      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/others/yield_keyword.rb" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Ruby.review" />
+        <item itemvalue="Ruby.test (1)" />
+        <item itemvalue="Ruby.question1" />
+        <item itemvalue="Ruby.test" />
+        <item itemvalue="Ruby.yield_keyword" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SpringUtil" SPRING_PRE_LOADER_OPTION="true" RAKE_SPRING_PRE_LOADER_OPTION="true" RAILS_SPRING_PRE_LOADER_OPTION="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="743390d3-f346-49ed-896c-a8f59441d484" name="Default Changelist" comment="" />
+      <created>1596097582551</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1596097582551</updated>
+      <workItem from="1596097583713" duration="426000" />
+      <workItem from="1596348843830" duration="5036000" />
+      <workItem from="1596371667584" duration="406000" />
+      <workItem from="1596372124354" duration="31000" />
+      <workItem from="1596372191681" duration="3296000" />
+      <workItem from="1596406873304" duration="512000" />
+      <workItem from="1596523407150" duration="6755000" />
+      <workItem from="1596578899720" duration="12999000" />
+      <workItem from="1597011908044" duration="17059000" />
+      <workItem from="1597235748738" duration="8434000" />
+      <workItem from="1597715709694" duration="489000" />
+      <workItem from="1597749988079" duration="802000" />
+      <workItem from="1597840805938" duration="6952000" />
+      <workItem from="1598083489516" duration="1059000" />
+      <workItem from="1598431587327" duration="16894000" />
+      <workItem from="1598826104708" duration="14313000" />
+      <workItem from="1599206805485" duration="1342000" />
+      <workItem from="1599665631351" duration="9509000" />
+      <workItem from="1599784859158" duration="29630000" />
+      <workItem from="1599915005964" duration="77000" />
+      <workItem from="1599954771906" duration="1700000" />
+      <workItem from="1600066790685" duration="4151000" />
+      <workItem from="1600130561970" duration="585000" />
+      <workItem from="1600267428081" duration="260000" />
+      <workItem from="1600307427558" duration="1869000" />
+      <workItem from="1600344210430" duration="3348000" />
+      <workItem from="1600476507524" duration="508000" />
+      <workItem from="1600512696614" duration="1494000" />
+      <workItem from="1600514456773" duration="2393000" />
+      <workItem from="1600529825391" duration="170000" />
+      <workItem from="1600591801964" duration="1569000" />
+      <workItem from="1600898508046" duration="2757000" />
+      <workItem from="1600930119910" duration="817000" />
+      <workItem from="1601432338140" duration="541000" />
+      <workItem from="1601532758881" duration="1912000" />
+      <workItem from="1601684042832" duration="1150000" />
+      <workItem from="1601693307145" duration="1558000" />
+      <workItem from="1601938612048" duration="256000" />
+      <workItem from="1602031537825" duration="533000" />
+      <workItem from="1602078800528" duration="1142000" />
+      <workItem from="1602737621107" duration="4134000" />
+      <workItem from="1602913530800" duration="6692000" />
+      <workItem from="1603328995503" duration="518000" />
+      <workItem from="1603885526752" duration="2869000" />
+      <workItem from="1605650203345" duration="970000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1770" y="225" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1602920472412">
+      <screen x="1440" y="23" width="1048" height="747" />
+    </state>
+    <state x="453" y="248" key="#com.intellij.fileTypes.FileTypeChooser/1440.23.1048.747/0.23.1440.831@0.23.1440.831" timestamp="1599703441233" />
+    <state x="1770" y="225" key="#com.intellij.fileTypes.FileTypeChooser/1440.23.1048.747/0.23.1440.831@1440.23.1048.747" timestamp="1602920472412" />
+    <state width="979" height="230" key="GridCell.Tab.0.bottom" timestamp="1603936431739">
+      <screen x="0" y="23" width="1440" height="831" />
+    </state>
+    <state width="979" height="230" key="GridCell.Tab.0.bottom/0.23.1440.831@0.23.1440.831" timestamp="1603936431739" />
+    <state width="586" height="324" key="GridCell.Tab.0.bottom/0.23.1440.832@0.23.1440.832" timestamp="1600926850562" />
+    <state width="979" height="230" key="GridCell.Tab.0.bottom/1440.23.1048.708/0.23.1440.877@1440.23.1048.708" timestamp="1602980678681" />
+    <state width="917" height="264" key="GridCell.Tab.0.bottom/1440.23.1048.747/0.23.1440.831@0.23.1440.831" timestamp="1602745988203" />
+    <state width="979" height="230" key="GridCell.Tab.0.bottom/1440.23.1048.747/0.23.1440.831@1440.23.1048.747" timestamp="1602941885980" />
+    <state width="979" height="230" key="GridCell.Tab.0.center" timestamp="1603936431738">
+      <screen x="0" y="23" width="1440" height="831" />
+    </state>
+    <state width="979" height="230" key="GridCell.Tab.0.center/0.23.1440.831@0.23.1440.831" timestamp="1603936431738" />
+    <state width="586" height="324" key="GridCell.Tab.0.center/0.23.1440.832@0.23.1440.832" timestamp="1600926850561" />
+    <state width="979" height="230" key="GridCell.Tab.0.center/1440.23.1048.708/0.23.1440.877@1440.23.1048.708" timestamp="1602980678679" />
+    <state width="917" height="264" key="GridCell.Tab.0.center/1440.23.1048.747/0.23.1440.831@0.23.1440.831" timestamp="1602745988202" />
+    <state width="979" height="230" key="GridCell.Tab.0.center/1440.23.1048.747/0.23.1440.831@1440.23.1048.747" timestamp="1602941885980" />
+    <state width="979" height="230" key="GridCell.Tab.0.left" timestamp="1603936431737">
+      <screen x="0" y="23" width="1440" height="831" />
+    </state>
+    <state width="979" height="230" key="GridCell.Tab.0.left/0.23.1440.831@0.23.1440.831" timestamp="1603936431737" />
+    <state width="586" height="324" key="GridCell.Tab.0.left/0.23.1440.832@0.23.1440.832" timestamp="1600926850560" />
+    <state width="979" height="230" key="GridCell.Tab.0.left/1440.23.1048.708/0.23.1440.877@1440.23.1048.708" timestamp="1602980678679" />
+    <state width="917" height="264" key="GridCell.Tab.0.left/1440.23.1048.747/0.23.1440.831@0.23.1440.831" timestamp="1602745988201" />
+    <state width="979" height="230" key="GridCell.Tab.0.left/1440.23.1048.747/0.23.1440.831@1440.23.1048.747" timestamp="1602941885979" />
+    <state width="979" height="230" key="GridCell.Tab.0.right" timestamp="1603936431739">
+      <screen x="0" y="23" width="1440" height="831" />
+    </state>
+    <state width="979" height="230" key="GridCell.Tab.0.right/0.23.1440.831@0.23.1440.831" timestamp="1603936431739" />
+    <state width="586" height="324" key="GridCell.Tab.0.right/0.23.1440.832@0.23.1440.832" timestamp="1600926850562" />
+    <state width="979" height="230" key="GridCell.Tab.0.right/1440.23.1048.708/0.23.1440.877@1440.23.1048.708" timestamp="1602980678680" />
+    <state width="917" height="264" key="GridCell.Tab.0.right/1440.23.1048.747/0.23.1440.831@0.23.1440.831" timestamp="1602745988202" />
+    <state width="979" height="230" key="GridCell.Tab.0.right/1440.23.1048.747/0.23.1440.831@1440.23.1048.747" timestamp="1602941885980" />
+    <state width="1398" height="267" key="GridCell.Tab.1.bottom" timestamp="1599912863526">
+      <screen x="0" y="23" width="1440" height="831" />
+    </state>
+    <state width="1398" height="267" key="GridCell.Tab.1.bottom/0.23.1440.831@0.23.1440.831" timestamp="1599912863526" />
+    <state width="1398" height="267" key="GridCell.Tab.1.center" timestamp="1599912863523">
+      <screen x="0" y="23" width="1440" height="831" />
+    </state>
+    <state width="1398" height="267" key="GridCell.Tab.1.center/0.23.1440.831@0.23.1440.831" timestamp="1599912863523" />
+    <state width="1398" height="267" key="GridCell.Tab.1.left" timestamp="1599912863518">
+      <screen x="0" y="23" width="1440" height="831" />
+    </state>
+    <state width="1398" height="267" key="GridCell.Tab.1.left/0.23.1440.831@0.23.1440.831" timestamp="1599912863518" />
+    <state width="1398" height="267" key="GridCell.Tab.1.right" timestamp="1599912863524">
+      <screen x="0" y="23" width="1440" height="831" />
+    </state>
+    <state width="1398" height="267" key="GridCell.Tab.1.right/0.23.1440.831@0.23.1440.831" timestamp="1599912863524" />
+    <state x="221" y="78" key="SettingsEditor" timestamp="1605675243401">
+      <screen x="0" y="25" width="1440" height="823" />
+    </state>
+    <state x="221" y="77" key="SettingsEditor/0.23.1440.831@0.23.1440.831" timestamp="1601535619881" />
+    <state x="221" y="78" key="SettingsEditor/0.25.1440.823@0.25.1440.823" timestamp="1605675243401" />
+    <state x="385" y="89" width="670" height="676" key="search.everywhere.popup" timestamp="1598486609721">
+      <screen x="0" y="23" width="1440" height="831" />
+    </state>
+    <state x="385" y="89" width="670" height="676" key="search.everywhere.popup/0.23.1440.831@0.23.1440.831" timestamp="1598486609721" />
+    <state x="194" y="160" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1600514713033">
+      <screen x="0" y="23" width="1440" height="831" />
+    </state>
+    <state x="194" y="160" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/0.23.1440.831@0.23.1440.831" timestamp="1600514713033" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/BIT246@RPS_max.rcov" NAME="RPS_max Coverage Results" MODIFIED="1599097640787" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week6/workshop" MODULE_NAME="BIT246" />
+    <SUITE FILE_PATH="coverage/BIT246@assessment.rcov" NAME="assessment Coverage Results" MODIFIED="1599898202153" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week7/workshop" MODULE_NAME="BIT246" />
+    <SUITE FILE_PATH="coverage/BIT246@Gloable_Variable.rcov" NAME="Gloable_Variable Coverage Results" MODIFIED="1596669498645" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week2" MODULE_NAME="BIT246" />
+    <SUITE FILE_PATH="coverage/BIT246@example3.rcov" NAME="example3 Coverage Results" MODIFIED="1599694188686" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week7" MODULE_NAME="BIT246" />
+    <SUITE FILE_PATH="coverage/BIT246@ternary.rcov" NAME="ternary Coverage Results" MODIFIED="1597273943235" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week3" MODULE_NAME="BIT246" />
+    <SUITE FILE_PATH="coverage/BIT246@Sailesh.rcov" NAME="Sailesh Coverage Results" MODIFIED="1600476719199" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Assessment/Phase2" MODULE_NAME="BIT246" />
+    <SUITE FILE_PATH="coverage/BIT246@Test.rcov" NAME="Test Coverage Results" MODIFIED="1600071277890" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Assessment/Phase1/Keshan" MODULE_NAME="BIT246" />
+    <SUITE FILE_PATH="coverage/BIT246@Chandan1479511.rcov" NAME="Chandan1479511 Coverage Results" MODIFIED="1600072302647" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Assessment/Phase1" MODULE_NAME="BIT246" />
+    <SUITE FILE_PATH="coverage/BIT246@InstanceVariables.rcov" NAME="InstanceVariables Coverage Results" MODIFIED="1596668376938" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week2" MODULE_NAME="BIT246" />
+    <SUITE FILE_PATH="coverage/BIT246@Crazy8Ball.rcov" NAME="Crazy8Ball Coverage Results" MODIFIED="1596716502276" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week2" MODULE_NAME="BIT246" />
+    <SUITE FILE_PATH="coverage/BIT246@20_Comments.rcov" NAME="20_Comments Coverage Results" MODIFIED="1596538305149" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/UM/Section 2" MODULE_NAME="BIT246" />
+    <SUITE FILE_PATH="coverage/BIT246@Asseme.rcov" NAME="Asseme Coverage Results" MODIFIED="1600070630018" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Assessment/Phase1" MODULE_NAME="BIT246" />
+    <SUITE FILE_PATH="coverage/BIT246@search_in_file.rcov" NAME="search_in_file Coverage Results" MODIFIED="1600515547426" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="/Library/Ruby/Gems/2.6.0/gems/search_in_file-1.0.1/lib" MODULE_NAME="BIT246" />
+    <SUITE FILE_PATH="coverage/BIT246@review.rcov" NAME="review Coverage Results" MODIFIED="1603920550893" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="BIT246" />
+    <SUITE FILE_PATH="coverage/BIT246@Basic_Arithmetic.rcov" NAME="Basic_Arithmetic Coverage Results" MODIFIED="1596529275085" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/UM/Section 2" MODULE_NAME="BIT246" />
+    <SUITE FILE_PATH="coverage/BIT246@precedence.rcov" NAME="precedence Coverage Results" MODIFIED="1597238382696" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week3" MODULE_NAME="BIT246" />
+    <SUITE FILE_PATH="coverage/BIT246@AnimalFarm.rcov" NAME="AnimalFarm Coverage Results" MODIFIED="1599084428982" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week6/workshop" MODULE_NAME="BIT246" />
+    <SUITE FILE_PATH="coverage/BIT246@Phase_1_Daniel_Johns_s1449019.rcov" NAME="Phase_1_Daniel_Johns_s1449019 Coverage Results" MODIFIED="1600070437704" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Assessment/Phase1/Daniel Johns s1449019 BIT246 Object Oriented RADAssessment 2âSoftware Application âRuby ProjectâPhase 1" MODULE_NAME="BIT246" />
+    <SUITE FILE_PATH="coverage/BIT246@question1.rcov" NAME="question1 Coverage Results" MODIFIED="1602744599242" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Assessment/A1b" MODULE_NAME="BIT246" />
+    <SUITE FILE_PATH="coverage/BIT246@Dipesh.rcov" NAME="Dipesh Coverage Results" MODIFIED="1600072040138" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Assessment/Phase1" MODULE_NAME="BIT246" />
+    <SUITE FILE_PATH="coverage/BIT246@unless.rcov" NAME="unless Coverage Results" MODIFIED="1597235860537" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week3/if" MODULE_NAME="BIT246" />
+    <SUITE FILE_PATH="coverage/BIT246@2Q1234567.rcov" NAME="2Q1234567 Coverage Results" MODIFIED="1600514279070" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Assessment" MODULE_NAME="BIT246" />
+    <SUITE FILE_PATH="coverage/BIT246@24_Intor_to_object_name.rcov" NAME="24_Intor_to_object_name Coverage Results" MODIFIED="1596543358742" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/UM/Section 2" MODULE_NAME="BIT246" />
+    <SUITE FILE_PATH="coverage/BIT246@TicTacToe.rcov" NAME="TicTacToe Coverage Results" MODIFIED="1599700796252" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week7/workshop" MODULE_NAME="BIT246" />
+    <SUITE FILE_PATH="coverage/BIT246@yield_keyword.rcov" NAME="yield_keyword Coverage Results" MODIFIED="1601694619092" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/others" MODULE_NAME="BIT246" />
+    <SUITE FILE_PATH="coverage/BIT246@section2.rcov" NAME="The_puts_Method Coverage Results" MODIFIED="1596527876710" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/UM" MODULE_NAME="BIT246" />
+    <SUITE FILE_PATH="coverage/BIT246@test__1_.rcov" NAME="test (1) Coverage Results" MODIFIED="1602941885907" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Assessment/Phase3" MODULE_NAME="BIT246" />
+    <SUITE FILE_PATH="coverage/BIT246@ClassVariable.rcov" NAME="ClassVariable Coverage Results" MODIFIED="1596668968121" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week2" MODULE_NAME="BIT246" />
+    <SUITE FILE_PATH="coverage/BIT246@Assign2.rcov" NAME="Assign2 Coverage Results" MODIFIED="1600899469918" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Assessment/Phase2/Anushreya" MODULE_NAME="BIT246" />
+    <SUITE FILE_PATH="coverage/BIT246@Noise.rcov" NAME="Noise Coverage Results" MODIFIED="1599088615422" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week6" MODULE_NAME="BIT246" />
+    <SUITE FILE_PATH="coverage/BIT246@phase1.rcov" NAME="phase1 Coverage Results" MODIFIED="1600071034727" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Assessment/Phase1/assessment2" MODULE_NAME="BIT246" />
+    <SUITE FILE_PATH="coverage/BIT246@part1.rcov" NAME="part1 Coverage Results" MODIFIED="1600898658802" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Assessment/Phase2/Chandan" MODULE_NAME="BIT246" />
+    <SUITE FILE_PATH="coverage/BIT246@test__2_.rcov" NAME="test (2) Coverage Results" MODIFIED="1598485335024" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week5" MODULE_NAME="BIT246" />
+    <SUITE FILE_PATH="coverage/BIT246@example2.rcov" NAME="example2 Coverage Results" MODIFIED="1599693925582" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week7" MODULE_NAME="BIT246" />
+    <SUITE FILE_PATH="coverage/BIT246@The_p_Method.rcov" NAME="The_p_Method Coverage Results" MODIFIED="1596527243810" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/UM/The_puts_method" MODULE_NAME="BIT246" />
+    <SUITE FILE_PATH="coverage/BIT246@26_String_Interpolation.rcov" NAME="26_String_Interpolation Coverage Results" MODIFIED="1596544590427" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/UM/Section 2" MODULE_NAME="BIT246" />
+    <SUITE FILE_PATH="coverage/BIT246@21_Variables.rcov" NAME="21_Variables Coverage Results" MODIFIED="1596538581906" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/UM/Section 2" MODULE_NAME="BIT246" />
+    <SUITE FILE_PATH="coverage/BIT246@Chameka.rcov" NAME="Chameka Coverage Results" MODIFIED="1600592843014" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Assessment/Phase2" MODULE_NAME="BIT246" />
+    <SUITE FILE_PATH="coverage/BIT246@Scope.rcov" NAME="Scope Coverage Results" MODIFIED="1599096826797" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week6" MODULE_NAME="BIT246" />
+    <SUITE FILE_PATH="coverage/BIT246@rajan.rcov" NAME="rajan Coverage Results" MODIFIED="1600072457245" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Assessment/Phase1" MODULE_NAME="BIT246" />
+    <SUITE FILE_PATH="coverage/BIT246@Cristian__1_.rcov" NAME="Cristian (1) Coverage Results" MODIFIED="1600070837400" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Assessment/Phase1" MODULE_NAME="BIT246" />
+    <SUITE FILE_PATH="coverage/BIT246@TypingChallenge.rcov" NAME="TypingChallenge Coverage Results" MODIFIED="1597281440959" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week3" MODULE_NAME="BIT246" />
+    <SUITE FILE_PATH="coverage/BIT246@2Q23456.rcov" NAME="2Q23456 Coverage Results" MODIFIED="1599897150919" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Assessment" MODULE_NAME="BIT246" />
+    <SUITE FILE_PATH="coverage/BIT246@27_The_gets_method.rcov" NAME="27_The_gets_method Coverage Results" MODIFIED="1596634811059" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/UM/Section 2" MODULE_NAME="BIT246" />
+    <SUITE FILE_PATH="coverage/BIT246@case_2.rcov" NAME="case_2 Coverage Results" MODIFIED="1597275442814" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week3" MODULE_NAME="BIT246" />
+    <SUITE FILE_PATH="coverage/BIT246@test.rcov" NAME="test Coverage Results" MODIFIED="1601938635250" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="BIT246" />
+    <SUITE FILE_PATH="coverage/BIT246@rubyFile2.rcov" NAME="rubyFile2 Coverage Results" MODIFIED="1598491142113" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week5/workshop" MODULE_NAME="BIT246" />
+    <SUITE FILE_PATH="coverage/BIT246@case_.rcov" NAME="case_ Coverage Results" MODIFIED="1597275367860" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week3" MODULE_NAME="BIT246" />
+    <SUITE FILE_PATH="coverage/BIT246@loop.rcov" NAME="loop Coverage Results" MODIFIED="1597238829866" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week3" MODULE_NAME="BIT246" />
+    <SUITE FILE_PATH="coverage/BIT246@loop_modifier.rcov" NAME="loop_modifier Coverage Results" MODIFIED="1597239422986" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week3" MODULE_NAME="BIT246" />
+    <SUITE FILE_PATH="coverage/BIT246@Chameka_A1_P2.rcov" NAME="Chameka_A1_P2 Coverage Results" MODIFIED="1600070013944" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Assessment/Phase1" MODULE_NAME="BIT246" />
+    <SUITE FILE_PATH="coverage/BIT246@if_unless.rcov" NAME="if_unless Coverage Results" MODIFIED="1597272997666" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week3" MODULE_NAME="BIT246" />
+    <SUITE FILE_PATH="coverage/BIT246@part2.rcov" NAME="part2 Coverage Results" MODIFIED="1600899182194" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Assessment/Phase2/Chandan" MODULE_NAME="BIT246" />
+    <SUITE FILE_PATH="coverage/BIT246@asses2q2.rcov" NAME="asses2q2 Coverage Results" MODIFIED="1600914991277" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Assessment/Phase2/Chameka" MODULE_NAME="BIT246" />
+    <SUITE FILE_PATH="coverage/BIT246@AnimalFarm__1_.rcov" NAME="AnimalFarm (1) Coverage Results" MODIFIED="1599089517550" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week6/workshop_class" MODULE_NAME="BIT246" />
+    <SUITE FILE_PATH="coverage/BIT246@rubyFile1.rcov" NAME="rubyFile1 Coverage Results" MODIFIED="1598490544565" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week5/workshop" MODULE_NAME="BIT246" />
+    <SUITE FILE_PATH="coverage/BIT246@2Q2234567.rcov" NAME="2Q2234567 Coverage Results" MODIFIED="1600516930491" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Assessment" MODULE_NAME="BIT246" />
+    <SUITE FILE_PATH="coverage/BIT246@StringInterpolation.rcov" NAME="StringInterpolation Coverage Results" MODIFIED="1596372805845" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week2" MODULE_NAME="BIT246" />
+    <SUITE FILE_PATH="coverage/BIT246@Q2.rcov" NAME="Q2 Coverage Results" MODIFIED="1600593402555" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Assessment/Phase2" MODULE_NAME="BIT246" />
+    <SUITE FILE_PATH="coverage/BIT246@Upender.rcov" NAME="Upender Coverage Results" MODIFIED="1600071436695" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Assessment/Phase1/Upender" MODULE_NAME="BIT246" />
+    <SUITE FILE_PATH="coverage/BIT246@hashes.rcov" NAME="hashes Coverage Results" MODIFIED="1597843532773" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week4" MODULE_NAME="BIT246" />
+    <SUITE FILE_PATH="coverage/BIT246@22_Parallel_Variable_Assignment.rcov" NAME="22_Parallel_Variable_Assignment Coverage Results" MODIFIED="1596538746774" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/UM/Section 2" MODULE_NAME="BIT246" />
+    <SUITE FILE_PATH="coverage/BIT246@28_Intro_to_Num__class.rcov" NAME="28_Intro_to_Num_.class Coverage Results" MODIFIED="1596637556129" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/UM/Section 3 Numbers and Booleans" MODULE_NAME="BIT246" />
+    <SUITE FILE_PATH="coverage/BIT246@loop_method.rcov" NAME="loop_method Coverage Results" MODIFIED="1597239665415" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week3" MODULE_NAME="BIT246" />
+    <SUITE FILE_PATH="coverage/BIT246@NumberGuess_Maz.rcov" NAME="NumberGuess_Maz Coverage Results" MODIFIED="1599051817316" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week4/workshop" MODULE_NAME="BIT246" />
+    <SUITE FILE_PATH="coverage/BIT246@Chamath.rcov" NAME="Chamath Coverage Results" MODIFIED="1600072236764" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Assessment/Phase1/Chamath" MODULE_NAME="BIT246" />
+    <SUITE FILE_PATH="coverage/BIT246@rubyFile3.rcov" NAME="rubyFile3 Coverage Results" MODIFIED="1598493789900" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week5/workshop" MODULE_NAME="BIT246" />
+    <SUITE FILE_PATH="coverage/BIT246@AnimalFarm2.rcov" NAME="AnimalFarm2 Coverage Results" MODIFIED="1599085208775" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week6/workshop" MODULE_NAME="BIT246" />
+    <SUITE FILE_PATH="coverage/BIT246@Phase2Q1s1503117.rcov" NAME="Phase2Q1s1503117 Coverage Results" MODIFIED="1600930168916" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Assessment/Phase2/Tanuj" MODULE_NAME="BIT246" />
+    <SUITE FILE_PATH="coverage/BIT246@Flavio.rcov" NAME="Flavio Coverage Results" MODIFIED="1600130593070" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Assessment/Phase2" MODULE_NAME="BIT246" />
+    <SUITE FILE_PATH="coverage/BIT246@recursion.rcov" NAME="recursion Coverage Results" MODIFIED="1599697035708" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week7" MODULE_NAME="BIT246" />
+    <SUITE FILE_PATH="coverage/BIT246@The_print_Method.rcov" NAME="The_print_Method Coverage Results" MODIFIED="1596527238504" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/UM/The_puts_method" MODULE_NAME="BIT246" />
+    <SUITE FILE_PATH="coverage/BIT246@Crazy8Ball_.rcov" NAME="Crazy8Ball_ Coverage Results" MODIFIED="1597012058907" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week2" MODULE_NAME="BIT246" />
+    <SUITE FILE_PATH="coverage/BIT246@Unique.rcov" NAME="Unique Coverage Results" MODIFIED="1600071690160" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Assessment/Phase1/Unique" MODULE_NAME="BIT246" />
+    <SUITE FILE_PATH="coverage/BIT246@problems.rcov" NAME="problems Coverage Results" MODIFIED="1596523759745" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week2" MODULE_NAME="BIT246" />
+    <SUITE FILE_PATH="coverage/BIT246@AnimalFarm2__1_.rcov" NAME="AnimalFarm2 (1) Coverage Results" MODIFIED="1599090775407" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week6/workshop_class" MODULE_NAME="BIT246" />
+    <SUITE FILE_PATH="coverage/BIT246@Anushreyathapa1475841.rcov" NAME="Anushreyathapa1475841 Coverage Results" MODIFIED="1600071919995" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Assessment/Phase1" MODULE_NAME="BIT246" />
+    <SUITE FILE_PATH="coverage/BIT246@example.rcov" NAME="example Coverage Results" MODIFIED="1596364374105" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week2" MODULE_NAME="BIT246" />
+    <SUITE FILE_PATH="coverage/BIT246@Q1.rcov" NAME="Q1 Coverage Results" MODIFIED="1600593386376" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Assessment/Phase2" MODULE_NAME="BIT246" />
+    <SUITE FILE_PATH="coverage/BIT246@customer.rcov" NAME="customer Coverage Results" MODIFIED="1596350423132" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week2" MODULE_NAME="BIT246" />
+    <SUITE FILE_PATH="coverage/BIT246@random_example.rcov" NAME="random_example Coverage Results" MODIFIED="1596375004549" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week2" MODULE_NAME="BIT246" />
+    <SUITE FILE_PATH="coverage/BIT246@phase2.rcov" NAME="phase2 Coverage Results" MODIFIED="1599836617965" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Assessment" MODULE_NAME="BIT246" />
+    <SUITE FILE_PATH="coverage/BIT246@Phase2Q2s1503117.rcov" NAME="Phase2Q2s1503117 Coverage Results" MODIFIED="1600930309850" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Assessment/Phase2/Tanuj" MODULE_NAME="BIT246" />
+    <SUITE FILE_PATH="coverage/BIT246@test_in_class.rcov" NAME="test_in_class Coverage Results" MODIFIED="1596677868438" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week2" MODULE_NAME="BIT246" />
+    <SUITE FILE_PATH="coverage/BIT246@TicTacToe_max.rcov" NAME="TicTacToe_max Coverage Results" MODIFIED="1599673138817" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week7/workshop" MODULE_NAME="BIT246" />
+    <SUITE FILE_PATH="coverage/BIT246@example1.rcov" NAME="example1 Coverage Results" MODIFIED="1599693947495" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week7" MODULE_NAME="BIT246" />
+    <SUITE FILE_PATH="coverage/BIT246@sailesh_assignment1.rcov" NAME="sailesh_assignment1 Coverage Results" MODIFIED="1598838323876" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Assessment" MODULE_NAME="BIT246" />
+    <SUITE FILE_PATH="coverage/BIT246@class_instance.rcov" NAME="class_instance Coverage Results" MODIFIED="1599091750209" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week6" MODULE_NAME="BIT246" />
+    <SUITE FILE_PATH="coverage/BIT246@rubyFile4.rcov" NAME="rubyFile4 Coverage Results" MODIFIED="1598494722915" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week5/workshop" MODULE_NAME="BIT246" />
+    <SUITE FILE_PATH="coverage/BIT246@Constant.rcov" NAME="Constant Coverage Results" MODIFIED="1596673711278" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week2" MODULE_NAME="BIT246" />
+    <SUITE FILE_PATH="coverage/BIT246@Cristian.rcov" NAME="Cristian Coverage Results" MODIFIED="1600346287544" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Assessment/Phase2" MODULE_NAME="BIT246" />
+    <SUITE FILE_PATH="coverage/BIT246@RPS.rcov" NAME="RPS Coverage Results" MODIFIED="1599095931350" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week6/workshop" MODULE_NAME="BIT246" />
+    <SUITE FILE_PATH="coverage/BIT246@The_Method.rcov" NAME="The_p_Method Coverage Results" MODIFIED="1596527826761" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/UM/Section 2" MODULE_NAME="BIT246" />
+    <SUITE FILE_PATH="coverage/BIT246@NumberGuess_original.rcov" NAME="NumberGuess original Coverage Results" MODIFIED="1599049051671" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week4/workshop" MODULE_NAME="BIT246" />
+    <SUITE FILE_PATH="coverage/BIT246@folder.rcov" NAME="folder Coverage Results" MODIFIED="1598487972926" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week5" MODULE_NAME="BIT246" />
+    <SUITE FILE_PATH="coverage/BIT246@NumberGuess.rcov" NAME="NumberGuess Coverage Results" MODIFIED="1597882053959" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week4" MODULE_NAME="BIT246" />
+    <SUITE FILE_PATH="coverage/BIT246@case.rcov" NAME="case Coverage Results" MODIFIED="1597236812615" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week3" MODULE_NAME="BIT246" />
+  </component>
+</project>
