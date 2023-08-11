@@ -1,0 +1,90 @@
+class SeachingClass # Class Name
+
+  def initialize(path, term)
+    # constructor
+
+
+    @path = path
+    @term = term
+    #Two arrays to store files and result
+    @arrayFiles = Array.new
+    @arrayResult = Array.new
+
+
+  end
+
+
+  def check
+
+    #check the current directory existence
+    if File.exist?(@path)
+      #If the directory exist it will create an array with .txt files present in the directory
+      Dir.chdir(@path)
+      @arrayFiles = Dir.glob('**/*.txt') # matches all txt file present in folder and subfolders for a given path
+      #if there is no dirctory for the path entered it will print not found
+    else
+      puts "#@path not found"
+    end
+
+  end
+
+
+  def searchForContent # Search – Main logic
+    #for each file in the file array check if the file contains the required term
+
+    #if it contains the required term
+    #Add the array element into result array using the filename as
+    # a parameter
+
+    @arrayFiles.each do |file|
+      @count = 0 # To store the number of entered term present in a file
+      @total = 0 #To store all the words present in a file
+      y = File.open(file) #opens the file
+      y.each do |line|
+        # Moves to each line
+        line.split.each do |word|
+          # Moves to each word
+          words = word.gsub(/\W/, '') # Replaces non-alphanumeric key words and replaces with empty string
+          @total = @total + 1 # For every word in a file total count increases with 1
+          # if the word in a file matches the given term the number of matched word increase with 1
+          if words =~ /#@term/i # i is to ignore case sensitive
+
+            @count = @count + 1
+
+          end
+
+        end
+      end
+      @portion = (@count.to_f / @total.to_f) * 100 #Calculating Portion
+      @portions=@portion.round(2)
+      if @count > 0 # Prints result for the file which have matched word greater than zero
+        @arrayResult << " \n\n\nThe total number of word in #{file} is #@total \nThe number of word'#@term'in a file #{file} is #@count\n The portion of word '#@term' in a #{file} is #@portions%\n\n"
+      end
+      @res = @arrayResult.uniq # To avoid repeating file names
+      @res_len = @res.length # To calculate total file .txt file present in the directory
+      @totalfile_len = @arrayFiles.length #To calculate total.txt file with matching term present in a directory
+
+
+    end
+  end
+
+  def printFile
+    # To print the result
+    #print out the result Array with proper messages
+    puts "#@res_len out of #@totalfile_len Files have a word: '#@term'"
+    puts @res
+
+  end
+end
+
+#MAIN LOGIC
+puts "Enter the term"
+terms = gets.chomp! # To get the required term
+puts "Enter the path"
+paths = gets.chomp! # to get the required path
+search = SeachingClass.new(paths, terms) #Instansiating new SearchingClass object
+#Calling the methods
+search.check
+search.searchForContent
+search.printFile
+
