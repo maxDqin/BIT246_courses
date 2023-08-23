@@ -1,0 +1,4 @@
+hello
+hello ruby
+3
+7
