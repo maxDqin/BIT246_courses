@@ -14,30 +14,18 @@
 # window, and then open the fold to see how I did it.
 
 
-#{{{ 1. Set the name of the file to a constant so it can be changed later.
-# This opens example1.txt, reads each line, and writes them to the screen.
-
+# 1. Set the name of the file to a constant so it can be changed later.
 # First, set the name of the file to the constant INPUT. This makes it easy to
 # change the name later.
-INPUT = "example1.txt"
-#}}}
+INPUT = 'example1.txt'
 
-#{{{ 2. Open the file and pass the file object to a block.
-# Now, open the file. This executes the block (do |input_file| ... end), with
-# 'input_file' assigned to the File object. When the block is done, the file is
-# automatically closed.
-File.open(INPUT) do |input_file| # File.open(INPUT) = [one two three, gekki, do*g]; input_file = [one two three, gekki, do*g]
-  #}}}
-
-  #{{{ 3. Read each line from the file and print it to the screen.
+# 2. Open the file and pass the file object to a block.
+File.open(INPUT) do |input_file|
+  # 3. Read each line from the file and print it to the screen.
   # This executes the block (do |line| ... end) for every line in the file.
-  x=1 
-  input_file.each do |line| # input_file.each = [one two three, gekki, do*g]; line = one two there
-    puts x.to_s+"."+line
+  x = 1
+  input_file.each do |line|
+    puts x.to_s+'.'+line
     x+=1
   end
-  #}}}
-
-  #{{{ 4. Close the block from #2.
-end
-#}}}
+end # 4. Close the block from #2.

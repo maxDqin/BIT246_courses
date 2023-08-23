@@ -2,8 +2,8 @@
 #
 # Script Name: TypingChallenge.rb
 # Version:     1.0
-# Author:      Jerry Lee Ford, Jr.
-# Date:        March 2010
+# Modified by: Max D Qin
+# Date:        August 2023
 #
 # Description: This Ruby script demonstrates how to apply conditional logic
 #              in order to analyze user input and control script execution

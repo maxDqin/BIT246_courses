@@ -1,21 +1,19 @@
-# x = [2, 4, 6, 8, 10]
-# puts x
-# puts x.inspect
-# x = [1, 2, 3]
-# y = [4, 5, 6]
-# z = x + y
-# puts z.inspect
 
-# x = ["a", "b"]
-# puts x.inspect
-# if x.empty? == false thener
-#   x.each { |child| puts child }
-# else puts "empty"
-# end
-#
-#
-# children = %w(Alexander William Molly)
-# puts children.inspect
+# x = [1,2,3]
+# y = x
+# x[3] = 4
+# puts y.inspect
+
+
+x = ["a", "b"]
+puts x.inspect
+if x.empty? == false then
+  x.each { |child| puts child }
+else puts "empty"
+end
+
+
+
 
 
 # children = []
@@ -106,10 +104,10 @@
 #   puts
 # end
 
-kids = {1 => "Alex", 2 => "Will", 3 => "Molly"}
-kids.keys.sort.reverse.each do |k|
-  puts k
-end
+# kids = {1 => "Alex", 2 => "Will", 3 => "Molly"}
+# kids.keys.sort.reverse.each do |k|
+#   puts k
+# end
 
 # kids = {"first" => "Alex", "second" => "Will", "third" => "Molly"}
 # puts "\n\nKeys belonging to the kids hash:\n\n"

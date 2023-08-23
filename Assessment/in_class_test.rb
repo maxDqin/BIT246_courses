@@ -1,1 +1,0 @@
-puts "abcd \n efg"
