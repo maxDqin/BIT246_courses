@@ -61,7 +61,7 @@
 # puts inputFile.gets
 # inputFile.close
 #
-inputArray = File.readlines("Demo.txt")
+inputArray = File.readlines("./week05/Demo.txt")
 inputArray.each do |line| # line = "Merry Christam"
   puts line
 end
