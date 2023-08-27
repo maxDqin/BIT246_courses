@@ -52,9 +52,9 @@ class Student
   #   @age = age
   # end
 
-  def display_details(name, age)
-    @name = name
-    @age = age
+  def display_details
+    # @name = name
+    # @age = age
     puts "Name: "+name
     puts "Age: #@age"
   end
@@ -66,9 +66,10 @@ age = 17
 #
 # Creating an object for the student
 student = Student.new
-
+# student.age = age
+# student.name = name
 # Displaying the student's details
-student.display_details("a", 1)
+student.display_details
 #
 # def category(age)
 #   case
