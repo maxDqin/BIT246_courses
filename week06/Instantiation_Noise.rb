@@ -3,7 +3,7 @@ class Noise
     @occurrences = number_beeps
   end
   def make_sound
-    @occurrences.times{print "a"}
+    @occurrences.times{print "\a"}
   end
 end
 
