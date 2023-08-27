@@ -137,7 +137,7 @@ class Display
         # e.g. Order118062020114012345678.txt) in a folder name “Orders<Date>”
         #  And Writes Name and Student ID on a file
         outfile=File.new( "Order#{odates}/Order#{randomNo}#{time}S1500231.txt","w")
-        outfile.puts"Sailesh KHADKA \t\t SudentID:15001231"
+        outfile.puts"students KHADKA \t\t SudentID:15001231"
         outfile.close
         #Append all the Customers information on the same file created
         outfile=File.new( "Order#{odates}/Order#{randomNo}#{time}S1500231.txt","a")
